@@ -6,62 +6,14 @@
     "light": "#8B6EF0",
     "dark": "#3D2A9E"
   },
-  "favicon": "/logo/fanbase-icon.svg",
-  "logo": {
-    "light": "/logo/fanbase-light.svg",
-    "dark": "/logo/fanbase-dark.svg"
-  },
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Business Center",
-        "groups": [
-          {
-            "group": "Payments and Finance",
-            "pages": [
-              "business-center/getting-paid",
-              "business-center/payment-account-setup"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Knowledge Center",
-        "groups": [
-          {
-            "group": "How to Use the App",
-            "pages": [
-              "knowledge-center/getting-started",
-              "knowledge-center/fanbase-features"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Creator Academy",
-        "groups": [
-          {
-            "group": "How to Earn and Grow",
-            "pages": [
-              "creator-academy/monetize-basics"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  "topbar": {
-    "links": [
-      {
-        "name": "Fanbase",
-        "url": "https://fanbase.app"
-      }
-    ]
-  },
-  "footer": {
-    "socials": {
-      "instagram": "https://instagram.com/fanbaseapp",
-      "twitter": "https://twitter.com/fanbaseapp"
+  "navigation": [
+    {
+      "group": "Business Center",
+      "pages": ["getting-paid", "payment-account-setup"]
+    },
+    {
+      "group": "Knowledge Center",
+      "pages": ["getting-started", "fanbase-features"]
     }
-  }
+  ]
 }
