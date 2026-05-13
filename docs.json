@@ -7,14 +7,16 @@
     "light": "#8B6EF0",
     "dark": "#3D2A9E"
   },
-  "navigation": [
-    {
-      "group": "Business Center",
-      "pages": ["getting-paid", "payment-account-setup"]
-    },
-    {
-      "group": "Knowledge Center",
-      "pages": ["getting-started", "fanbase-features"]
-    }
-  ]
+  "navigation": {
+    "groups": [
+      {
+        "group": "Business Center",
+        "pages": ["getting-paid", "payment-account-setup"]
+      },
+      {
+        "group": "Knowledge Center",
+        "pages": ["getting-started", "fanbase-features"]
+      }
+    ]
+  }
 }
