@@ -4,9 +4,19 @@
   "name": "Fanbase Support Center",
   "description": "The official learning hub for Fanbase creators. Learn how to earn, grow, and master every feature on the platform.",
   "colors": {
-    "primary": "#FFCC00",
-    "light": "#FFD633",
-    "dark": "#1A1A1A"
+    "primary": "#8B5CF6",
+    "light": "#C4B5FD",
+    "dark": "#5B21B6"
+  },
+  "background": {
+    "decoration": "gradient",
+    "color": {
+      "light": "#FAFAFA",
+      "dark": "#0B0613"
+    }
+  },
+  "appearance": {
+    "default": "dark"
   },
   "favicon": "/images/favicon.svg",
   "navigation": {
