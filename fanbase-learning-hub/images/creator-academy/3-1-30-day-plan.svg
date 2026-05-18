@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-label="30-day plan: Foundation, Activation, Amplification, Conversion">
+  <rect width="1200" height="400" fill="#1A0A2E"/>
+
+  <text x="600" y="50" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle">Your first 30 days.</text>
+  <text x="600" y="76" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF" opacity="0.7" text-anchor="middle">Four weekly blocks. One clear goal per week.</text>
+
+  <!-- Timeline line -->
+  <line x1="120" y1="200" x2="1080" y2="200" stroke="#FF00D6" stroke-width="3" opacity="0.4"/>
+
+  <!-- Week 1: Foundation -->
+  <g transform="translate(120 130)">
+    <circle cx="0" cy="70" r="14" fill="#9824FF"/>
+    <text x="0" y="20" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#C77DFF" text-anchor="middle">WEEK 1</text>
+    <rect x="-100" y="100" width="200" height="120" rx="14" fill="#9824FF" opacity="0.18" stroke="#9824FF" stroke-width="1.5"/>
+    <text x="0" y="128" font-family="Inter, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">Foundation</text>
+    <text x="-86" y="158" font-family="Inter, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.85">• Set up profile</text>
+    <text x="-86" y="178" font-family="Inter, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.85">• Payment account</text>
+    <text x="-86" y="198" font-family="Inter, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.85">• Subscription price</text>
+  </g>
+
+  <!-- Week 2: Activation -->
+  <g transform="translate(360 130)">
+    <circle cx="0" cy="70" r="14" fill="#FF00D6"/>
+    <text x="0" y="20" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FF00D6" text-anchor="middle">WEEK 2</text>
+    <rect x="-100" y="100" width="200" height="120" rx="14" fill="#FF00D6" opacity="0.18" stroke="#FF00D6" stroke-width="1.5"/>
+    <text x="0" y="128" font-family="Inter, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">Activation</text>
+    <text x="-86" y="158" font-family="Inter, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.85">• 1 public post / day</text>
+    <text x="-86" y="178" font-family="Inter, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.85">• 2 exclusive drops</text>
+    <text x="-86" y="198" font-family="Inter, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.85">• First Live + ask</text>
+  </g>
+
+  <!-- Week 3: Amplification -->
+  <g transform="translate(600 130)">
+    <circle cx="0" cy="70" r="14" fill="#FF1BAF"/>
+    <text x="0" y="20" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FF1BAF" text-anchor="middle">WEEK 3</text>
+    <rect x="-100" y="100" width="200" height="120" rx="14" fill="#FF1BAF" opacity="0.18" stroke="#FF1BAF" stroke-width="1.5"/>
+    <text x="0" y="128" font-family="Inter, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">Amplification</text>
+    <text x="-86" y="158" font-family="Inter, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.85">• Tease elsewhere</text>
+    <text x="-86" y="178" font-family="Inter, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.85">• Audio Room host</text>
+    <text x="-86" y="198" font-family="Inter, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.85">• Reply to every comment</text>
+  </g>
+
+  <!-- Week 4: Conversion -->
+  <g transform="translate(840 130)">
+    <circle cx="0" cy="70" r="14" fill="#FFA624"/>
+    <text x="0" y="20" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFA624" text-anchor="middle">WEEK 4</text>
+    <rect x="-100" y="100" width="200" height="120" rx="14" fill="#FFA624" opacity="0.18" stroke="#FFA624" stroke-width="1.5"/>
+    <text x="0" y="128" font-family="Inter, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">Conversion</text>
+    <text x="-86" y="158" font-family="Inter, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.85">• Review Dashboard</text>
+    <text x="-86" y="178" font-family="Inter, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.85">• Loves vs subs ratio</text>
+    <text x="-86" y="198" font-family="Inter, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.85">• Tune the ask</text>
+  </g>
+
+  <!-- Goal endpoint -->
+  <g transform="translate(1080 130)">
+    <circle cx="0" cy="70" r="18" fill="#FFFFFF"/>
+    <path d="M -6 70 L -2 74 L 8 64" stroke="#9824FF" stroke-width="3" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>

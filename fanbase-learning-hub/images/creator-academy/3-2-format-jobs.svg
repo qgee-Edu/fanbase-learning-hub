@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-label="Every Fanbase format has a specific job">
+  <rect width="1200" height="400" fill="#1A0A2E"/>
+  <text x="600" y="45" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle">Every format has a job.</text>
+
+  <!-- Row 1 -->
+  <g transform="translate(80 90)">
+    <rect width="200" height="120" rx="16" fill="#9824FF" opacity="0.2" stroke="#9824FF"/>
+    <rect x="20" y="20" width="28" height="28" rx="6" fill="#9824FF"/>
+    <text x="20" y="78" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">Post</text>
+    <text x="20" y="100" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.8">Permanent value</text>
+  </g>
+
+  <g transform="translate(300 90)">
+    <rect width="200" height="120" rx="16" fill="#FF00D6" opacity="0.2" stroke="#FF00D6"/>
+    <circle cx="34" cy="34" r="14" fill="#FF00D6"/>
+    <text x="20" y="78" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">Story</text>
+    <text x="20" y="100" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.8">Daily connection</text>
+  </g>
+
+  <g transform="translate(520 90)">
+    <rect width="200" height="120" rx="16" fill="#FF1BAF" opacity="0.2" stroke="#FF1BAF"/>
+    <polygon points="22,20 22,48 46,34" fill="#FF1BAF"/>
+    <text x="20" y="78" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">Flickz</text>
+    <text x="20" y="100" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.8">Growth engine</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(80 230)">
+    <rect width="200" height="120" rx="16" fill="#FF3F24" opacity="0.2" stroke="#FF3F24"/>
+    <circle cx="34" cy="34" r="14" fill="#FF3F24"/>
+    <circle cx="34" cy="34" r="6" fill="#FFFFFF"/>
+    <text x="20" y="78" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">Live</text>
+    <text x="20" y="100" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.8">Relationship</text>
+  </g>
+
+  <g transform="translate(300 230)">
+    <rect width="200" height="120" rx="16" fill="#FFA624" opacity="0.2" stroke="#FFA624"/>
+    <rect x="28" y="20" width="12" height="22" rx="6" fill="#FFA624"/>
+    <path d="M 20 38 Q 34 52 48 38" stroke="#FFA624" stroke-width="2.5" fill="none"/>
+    <text x="20" y="78" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">Audio</text>
+    <text x="20" y="100" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.8">Community</text>
+  </g>
+
+  <g transform="translate(520 230)">
+    <rect width="200" height="120" rx="16" fill="#C77DFF" opacity="0.2" stroke="#C77DFF"/>
+    <rect x="20" y="20" width="32" height="22" rx="4" stroke="#C77DFF" stroke-width="2.5" fill="none"/>
+    <polygon points="30,28 30,38 38,33" fill="#C77DFF"/>
+    <text x="20" y="78" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">FB+</text>
+    <text x="20" y="100" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.8">Premium depth</text>
+  </g>
+
+  <!-- Right side: summary -->
+  <g transform="translate(780 100)">
+    <text x="0" y="0" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#FF00D6">use the right tool</text>
+    <text x="0" y="28" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">at the right moment.</text>
+
+    <text x="0" y="70" font-family="Inter, sans-serif" font-size="13" fill="#FFFFFF" opacity="0.85">Posting an announcement in a Story?</text>
+    <text x="0" y="92" font-family="Inter, sans-serif" font-size="13" fill="#FFFFFF" opacity="0.85">It vanishes in 24 hours.</text>
+    <text x="0" y="120" font-family="Inter, sans-serif" font-size="13" fill="#FFFFFF" opacity="0.85">Going Live to drop a quick tease?</text>
+    <text x="0" y="142" font-family="Inter, sans-serif" font-size="13" fill="#FFFFFF" opacity="0.85">A Flickz reaches more people.</text>
+
+    <text x="0" y="190" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#FFA624">Match the format to the moment.</text>
+  </g>
+</svg>

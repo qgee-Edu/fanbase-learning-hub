@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-label="Public versus exclusive content side by side">
+  <defs>
+    <linearGradient id="pubBg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#9824FF" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#9824FF" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="excBg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF1BAF" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#FFA624" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" fill="#1A0A2E"/>
+
+  <!-- PUBLIC -->
+  <g transform="translate(80 60)">
+    <rect width="480" height="280" rx="24" fill="url(#pubBg2)" stroke="#9824FF" stroke-width="2"/>
+    <circle cx="60" cy="60" r="28" fill="#9824FF"/>
+    <path d="M 46 60 C 46 50 76 50 76 60 C 76 70 46 70 46 60 Z M 56 60 A 5 5 0 1 1 66 60 A 5 5 0 1 1 56 60 Z" fill="#FFFFFF"/>
+    <text x="110" y="55" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#C77DFF" opacity="0.95">PUBLIC</text>
+    <text x="110" y="80" font-family="Inter, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">free to view.</text>
+
+    <text x="40" y="140" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF" opacity="0.9">Visible to anyone on Fanbase</text>
+    <text x="40" y="170" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF" opacity="0.9">(and off-platform when shared).</text>
+    <text x="40" y="210" font-family="Inter, sans-serif" font-size="13" fill="#FFFFFF" opacity="0.8">Use for: teasers, announcements,</text>
+    <text x="40" y="228" font-family="Inter, sans-serif" font-size="13" fill="#FFFFFF" opacity="0.8">free value, discovery content.</text>
+  </g>
+
+  <!-- EXCLUSIVE -->
+  <g transform="translate(640 60)">
+    <rect width="480" height="280" rx="24" fill="url(#excBg2)" stroke="#FF00D6" stroke-width="2"/>
+    <circle cx="60" cy="60" r="28" fill="#FF00D6"/>
+    <rect x="50" y="50" width="20" height="22" rx="3" fill="none" stroke="#FFFFFF" stroke-width="2.5"/>
+    <rect x="54" y="44" width="12" height="10" rx="6" fill="none" stroke="#FFFFFF" stroke-width="2.5"/>
+    <text x="110" y="55" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#FFA624" opacity="0.95">EXCLUSIVE</text>
+    <text x="110" y="80" font-family="Inter, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">subscribers only.</text>
+
+    <text x="40" y="140" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF" opacity="0.9">Unlocks only when a fan</text>
+    <text x="40" y="170" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF" opacity="0.9">subscribes to your page.</text>
+    <text x="40" y="210" font-family="Inter, sans-serif" font-size="13" fill="#FFFFFF" opacity="0.8">Use for: premium content,</text>
+    <text x="40" y="228" font-family="Inter, sans-serif" font-size="13" fill="#FFFFFF" opacity="0.8">behind-the-scenes, subscriber perks.</text>
+  </g>
+</svg>
