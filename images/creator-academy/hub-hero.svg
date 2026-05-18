@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-label="Creator Academy hub: monetization strategy and audience growth">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#871951"/>
+      <stop offset="100%" stop-color="#2B0458"/>
+    </linearGradient>
+    <linearGradient id="growthGrad" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF1BAF"/>
+      <stop offset="100%" stop-color="#FFA624"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" fill="url(#bg3)"/>
+  <circle cx="100" cy="100" r="120" fill="#FF00D6" opacity="0.15"/>
+  <circle cx="1100" cy="320" r="160" fill="#9824FF" opacity="0.20"/>
+
+  <!-- Growth chart card -->
+  <g transform="translate(700 60)">
+    <rect width="420" height="280" rx="24" fill="#FFFFFF" opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.25"/>
+
+    <!-- Growth path -->
+    <path d="M 40 220 Q 100 200 140 180 T 240 130 T 340 70 L 380 50"
+          stroke="url(#growthGrad)" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+    <!-- Dots on path -->
+    <circle cx="40" cy="220" r="6" fill="#FF1BAF"/>
+    <circle cx="140" cy="180" r="6" fill="#FF3F24"/>
+    <circle cx="240" cy="130" r="6" fill="#FFA624"/>
+    <circle cx="340" cy="70" r="8" fill="#FFA624" stroke="#FFFFFF" stroke-width="2"/>
+
+    <!-- Labels under chart -->
+    <text x="40" y="250" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.7" text-anchor="middle">Day 1</text>
+    <text x="140" y="250" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.7" text-anchor="middle">Week 1</text>
+    <text x="240" y="250" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.7" text-anchor="middle">Month 1</text>
+    <text x="340" y="250" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.7" text-anchor="middle">Month 3</text>
+
+    <!-- Title -->
+    <text x="40" y="40" font-family="Inter, sans-serif" font-size="13" fill="#FFFFFF" opacity="0.7">Subscribers</text>
+  </g>
+
+  <!-- Heading -->
+  <text x="80" y="140" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#FF00D6" opacity="0.9">Creator Academy</text>
+  <text x="80" y="200" font-family="Inter, sans-serif" font-size="44" font-weight="700" fill="#FFFFFF">earn &amp; grow.</text>
+  <text x="80" y="250" font-family="Inter, sans-serif" font-size="18" fill="#FFFFFF" opacity="0.85">monetization strategy. audience growth. real stories.</text>
+</svg>

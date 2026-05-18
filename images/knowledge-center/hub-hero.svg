@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-label="Knowledge Center hub: feature walkthroughs for every Fanbase tool">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2B0458"/>
+      <stop offset="100%" stop-color="#841AC8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" fill="url(#bg2)"/>
+  <circle cx="100" cy="100" r="120" fill="#FF00D6" opacity="0.15"/>
+  <circle cx="1100" cy="320" r="160" fill="#FF1BAF" opacity="0.18"/>
+
+  <!-- Phone mockup with create menu -->
+  <g transform="translate(740 50)">
+    <rect width="280" height="320" rx="36" fill="#0A0118" stroke="#FFFFFF" stroke-opacity="0.2"/>
+    <rect x="16" y="16" width="248" height="288" rx="24" fill="#1A0A2E"/>
+    <text x="140" y="60" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">Create something</text>
+
+    <!-- 6 feature tiles -->
+    <g transform="translate(40 90)">
+      <!-- Post -->
+      <rect width="60" height="60" rx="12" fill="#9824FF" opacity="0.25" stroke="#9824FF"/>
+      <rect x="18" y="18" width="24" height="24" rx="4" stroke="#9824FF" stroke-width="2" fill="none"/>
+      <text x="30" y="80" font-family="Inter, sans-serif" font-size="10" fill="#FFFFFF" text-anchor="middle">Post</text>
+
+      <!-- Story -->
+      <g transform="translate(70 0)">
+        <rect width="60" height="60" rx="12" fill="#FF00D6" opacity="0.2" stroke="#FF00D6"/>
+        <circle cx="30" cy="30" r="14" stroke="#FF00D6" stroke-width="2" fill="none"/>
+        <circle cx="30" cy="30" r="3" fill="#FF00D6"/>
+        <text x="30" y="80" font-family="Inter, sans-serif" font-size="10" fill="#FFFFFF" text-anchor="middle">Story</text>
+      </g>
+
+      <!-- Live -->
+      <g transform="translate(140 0)">
+        <rect width="60" height="60" rx="12" fill="#FF3F24" opacity="0.2" stroke="#FF3F24"/>
+        <circle cx="30" cy="30" r="6" fill="#FF3F24"/>
+        <circle cx="30" cy="30" r="12" stroke="#FF3F24" stroke-width="1.5" fill="none"/>
+        <text x="30" y="80" font-family="Inter, sans-serif" font-size="10" fill="#FFFFFF" text-anchor="middle">Live</text>
+      </g>
+    </g>
+
+    <g transform="translate(40 200)">
+      <!-- Flickz -->
+      <rect width="60" height="60" rx="12" fill="#9C27B0" opacity="0.2" stroke="#9C27B0"/>
+      <polygon points="22,18 22,42 44,30" fill="#9C27B0"/>
+      <text x="30" y="80" font-family="Inter, sans-serif" font-size="10" fill="#FFFFFF" text-anchor="middle">Flickz</text>
+
+      <!-- Audio -->
+      <g transform="translate(70 0)">
+        <rect width="60" height="60" rx="12" fill="#FFA624" opacity="0.2" stroke="#FFA624"/>
+        <rect x="26" y="16" width="8" height="20" rx="4" fill="#FFA624"/>
+        <path d="M 20 32 Q 30 44 40 32" stroke="#FFA624" stroke-width="2" fill="none"/>
+        <text x="30" y="80" font-family="Inter, sans-serif" font-size="10" fill="#FFFFFF" text-anchor="middle">Audio</text>
+      </g>
+
+      <!-- Plus -->
+      <g transform="translate(140 0)">
+        <rect width="60" height="60" rx="12" fill="#FF1BAF" opacity="0.2" stroke="#FF1BAF"/>
+        <polygon points="22,18 22,42 44,30" fill="#FF1BAF"/>
+        <text x="30" y="80" font-family="Inter, sans-serif" font-size="10" fill="#FFFFFF" text-anchor="middle">Plus</text>
+      </g>
+    </g>
+
+    <!-- Plus button at bottom -->
+    <circle cx="140" cy="290" r="20" fill="#FF1BAF"/>
+    <path d="M 130 290 L 150 290 M 140 280 L 140 300" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Heading -->
+  <text x="80" y="140" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#FF00D6" opacity="0.9">Knowledge Center</text>
+  <text x="80" y="200" font-family="Inter, sans-serif" font-size="44" font-weight="700" fill="#FFFFFF">how to use the app.</text>
+  <text x="80" y="250" font-family="Inter, sans-serif" font-size="18" fill="#FFFFFF" opacity="0.85">feature-by-feature, every tool, every moment.</text>
+</svg>
